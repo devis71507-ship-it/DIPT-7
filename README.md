@@ -84,6 +84,10 @@ plt.title("Grayscale Image")
 plt.axis('off')
 ###
 ```
+<img width="295" height="358" alt="image" src="https://github.com/user-attachments/assets/362d9632-135c-40c3-b74f-049fd4e8d277" />
+
+
+<img width="308" height="352" alt="image" src="https://github.com/user-attachments/assets/e2e23bad-7af0-4ab0-9213-0ec8f46b7468" />
 
 ---
 
@@ -102,6 +106,7 @@ plt.title("Canny Edge Detector")
 plt.axis('off')
 ###
 ```
+<img width="262" height="360" alt="image" src="https://github.com/user-attachments/assets/0ce530b1-d1f8-40f5-aa43-ffcf8e75c0aa" />
 
 ---
 
@@ -127,6 +132,7 @@ plt.axis('off')
 
 ###
 ```
+<img width="286" height="372" alt="image" src="https://github.com/user-attachments/assets/36b91148-caf0-4c48-bf23-dbb883f9b3b2" />
 
 ---
 
