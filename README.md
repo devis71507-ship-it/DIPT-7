@@ -142,10 +142,7 @@ plt.axis('off')
 
 * Original image
 * Grayscale image
-* Thresholded image
-* ROI masked image
 * Edge detected image
-* Smoothed image
 * Detected lines
 * Final lane detection output
 
